@@ -16,4 +16,23 @@ Quote Keeper is a web application that allows users to register, log in, and man
 - **Database:** SQLite
 
 ## Demo Images
-![Home Page](./images/image1.png)
+Home Page prior to login:
+<img src="./images/image1.png" width="300"/>
+
+Registration Page, with password check:
+<img src="./images/image2.png" width="300"/>
+
+User's Quotes page, with creation form and delete functionality:
+<img src="./images/image3.png" width="300"/>
+
+Explore Page available to authenticated users to view all the quotes in the database:
+<img src="./images/image4.png" width="300"/>
+
+Home Page post login, with logout functionality:
+<img src="./images/image5.png" width="300"/>
+
+
+
+
+
+
