@@ -16,7 +16,7 @@ Quote Keeper is a web application that allows users to register, log in, and man
 - **Database:** SQLite
 
 ## Demo Images
-Home Page prior to login:
+Home Page prior to login: <br>
 <img src="./images/image1.png" width="300"/>
 
 Registration Page, with password check:
