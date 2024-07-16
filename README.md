@@ -14,3 +14,6 @@ Quote Keeper is a web application that allows users to register, log in, and man
 - **Backend:** Django REST Framework, JWT Authentication
 - **Frontend:** React, Tailwind CSS, Axios
 - **Database:** SQLite
+
+## Demo Images
+![Home Page](./images/image1.png)
